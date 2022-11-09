@@ -1,7 +1,7 @@
 # HQ_Game
-![License: MIT][ico-license]
+![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)
 
-This code has been used in part of my project [Manamo](https://manamo.app) which provides an online HQ game for many of the users who learn English from Manamo consistently, this part of the Manamo had lots of challenges for me therefore I decided to share that with you and I'm hopeful that would be useful.
+This code has been used in part of my project [manamo.app](https://manamo.app) which provides an online HQ game for many of the users who learn English from Manamo consistently, this part of the Manamo had lots of challenges for me therefore I decided to share that with you and I'm hopeful that would be useful.
 
 So here I will share my experience along with a sample code that will demonstrate how to create an HQ online game with Node.js along with MySql and Redis. and also I provided a "manage" route with REST API methods to manage the game through API Requests.
 
@@ -10,11 +10,11 @@ Please notice that I used PM2 to run Node.js on CentOS server but you can use al
 
 ### Built With
 
-* [![Node][Nodejs.org]][Node-url]
-* [![Express][expressjs.com]][Express-url]
-* [![socket.io][socket.io]][socket.io-url]
-* [![MYSQL][mysql.com]][MYSQL-url]
-* [![Redis][redis.io]][Redis-url]
+* Node.js
+* Express.js
+* Socket.io
+* MySql
+* Redis
 
 ### Packages Used
 * Promise - Handle the result of an asynchronous task
