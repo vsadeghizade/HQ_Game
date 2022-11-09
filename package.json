@@ -1,0 +1,39 @@
+{
+  "name": "HQ_Game",
+  "version": "1.0.0",
+  "description": "HQ is the wildly popular live game show app where you can win real cash prizes for free. It's a sample of how to implement an HQ game with Node.JS, Socket.io, Redis and MySql",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "Socket.io",
+    "EventEmitter",
+    "MYSQL",
+    "Redis",
+    "Promise",
+    "Sequelize",
+    "Sequelize-Redis-Cache"
+  ],
+  "author": "Vahid Sadeghizadeh",
+  "email": "v.sadeghizade@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "compression": "^1.7.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-validator": "^5.2.0",
+    "http-errors": "~1.6.2",
+    "morgan": "^1.9.1",
+    "redis": "^2.8.0",
+    "sequelize": "^4.38.0",
+    "sequelize-redis-cache": "^2.0.1",
+    "socket.io": "^2.1.1",
+    "socket.io-emitter": "^3.1.1",
+    "socket.io-redis": "^5.2.0",
+    "ioredis": "^4.2.0",
+    "events": "^3.1.0",
+    "update": "^0.7.4"
+  }
+}

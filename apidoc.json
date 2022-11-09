@@ -1,0 +1,8 @@
+{
+    "name": "HQ_Game API documentation",
+    "version": "1.0.0",
+    "description": "HQ is the wildly popular live game show app where you can win real cash prizes for free",
+    "template": {
+        "forceLanguage": "en"
+    }
+}
