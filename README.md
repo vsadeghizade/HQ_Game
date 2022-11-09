@@ -57,8 +57,8 @@ All contributions welcome.
 
 ## Credits
 
-- [Vahid Sadeghizadeh][link-author]
-- [All Contributors][link-contributors]
+- [Vahid Sadeghizadeh](https://github.com/vsadeghizade)
+- All Contributors
 
 ## License
 
